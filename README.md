@@ -47,6 +47,7 @@ return result;
 * Participation in commercial development of web applications
 * Providing interactions with MySQL database
 * Implementation of app business logic
+* Providing best practicies in the code writing
 
 
 
