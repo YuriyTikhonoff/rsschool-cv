@@ -54,9 +54,10 @@ return result;
 ## Education
 *RSSchool Front End* - learning basics of web development and work with mentors
 *Zaporizhzhian National University* - Enterprise Finances
-*Tavriyskiy Collage* - Software Development
+*Tavriyskiy College* - Software Development
 
 ## English proficiency
 Advanced C1 Level - Written and Spoken
  
+*Conducting negotiations on international business level - Canada, India*
 *Diploma of American Michael Gott School*
