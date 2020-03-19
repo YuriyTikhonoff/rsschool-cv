@@ -1,6 +1,7 @@
 # YURII TYKHONOV  
 **yuryitikhonoff@gmail.com**
-**+38066 196 79 33**
+**+38066 196 79 33** **Telegram, Viber, WhatsApp**
+
 
 
 Hi! I'm a freshman in **Web Development** and in **JavaScript** particularly. And I'm so excited of presence so many cool and cutting edge tools for creating applications of any design and complexity that I made a decision to be strongly committed to switching to a profession of software developer and contribute to projects intended to make the world a better place and be able to turn my all brave ideas into reality.
