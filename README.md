@@ -53,8 +53,8 @@ return result;
 
 ## Education
 *RSSchool Front End* - learning basics of web development and work with mentors
-*Zaporizhzhian National University* - Enterprise Finances
-*Tavriyskiy College* - Software Development
+*Zaporizhzhian National University* - Enterprise Finances, Diploma with honors
+*Tavriyskiy College* - Software Development, Diploma with honors
 
 ## English proficiency
 Advanced C1 Level - Written and Spoken
