@@ -42,7 +42,7 @@ return result;
 }
 ## Experience
 **Infocom LTD**
-(January 2018 - September 2019)
+(February 2018 - September 2019)
 
 * Project manager in the engineering company
 
