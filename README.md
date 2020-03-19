@@ -43,10 +43,10 @@ return result;
 **CatFish Company** 
 ( September 2019 - March 2020)
 
-* Role of the Front End Junior and apprentice in outsourced IT company. 
-* Participation in commercial development of web applications
-* Providing interactions with MySQL database
-* Implementation of app business logic
+* Playing role of the Front End Junior developer and apprentice in the outsourced IT company. 
+* Participation in the commercial development of web applications
+* Providing interactions with MySQL databases
+* Implementations of app business logic
 * Providing best practicies in the code writing
 
 
