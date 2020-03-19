@@ -14,7 +14,7 @@ That's why I find all difficulties and hardships of the learning process worth o
 
 In my projects I use **HTML5** and **CSS3**, framework **Bootstrap**, pretty skilled in pure **JavaScript** and core **PHP** as well as **Laravel** and **REACT** and **NODE**. I have an experience of making layouts from provided mockups in **Figma, Photoshop, Illustrator, Sketch**, working with CMS **WordPress**, and creating **Single Page Applications**.
 
-My higly developed **soft skills** allows me to be a cooperative team player, keep thinking out the box, persistenly improve my knowledge and performance level and overdeliver expected results of my work. 
+My higly developed **soft skills** allows me to be a cooperative team player, keep thinking out the box, persistenly improve my knowledge and performance level and overdeliver expected results of my work. I am deeply convinced that grit and perseverance are the cornerstones of mastering in any area.
 
 ## Code examples
 > let symbolsCount = str => {  
